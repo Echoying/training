@@ -16,7 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="generator" target="1.8" />
+      <module name="GeberatorUIServer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

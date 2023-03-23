@@ -1,5 +1,4 @@
 package com.genlot.demo.lottery.facade;
-
 import com.genlot.demo.common.model.Response;
 import com.genlot.demo.lottery.domain.dto.BetOrderDTO;
 import io.swagger.annotations.Api;
@@ -8,8 +7,6 @@ import io.swagger.annotations.ApiParam;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * <p> 投注订单接口 </p>
